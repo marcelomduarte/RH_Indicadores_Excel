@@ -7,4 +7,3 @@
 ![Desligamentos](images/3_desligamentos.png)
 #
 ![Turnover](images/4_turnover.png)
-#
